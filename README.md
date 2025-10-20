@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardeen-785&label=Profile%20views&color=0e75b6&style=flat" alt="fardeen-785" /> </p>
 
-- 🌱 I’m currently learning **Quantitative Trading**
+- 🌱 I'm currently learning **Quantitative Trading**
 
-- 👨‍💻 All of my projects are available at [FARDEEN-785 (Github)](FARDEEN-785 (Github))
+- 👨‍💻 All of my projects are available at [https://github.com/FARDEEN-785](https://github.com/FARDEEN-785)
 
 - 📫 How to reach me **mohdfardeenk333@gmail.com**
+
+- 📄 Connect with me on [LinkedIn](https://www.linkedin.com/in/mohd-fardeen-khan-408227310/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
