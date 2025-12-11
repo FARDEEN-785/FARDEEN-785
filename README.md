@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohd Fardeen Khan</h1>
-<h3 align="center">Quantitative Developer | AI-ML Engineer</h3>
+<h3 align="center">Quantitative Researcher | AI-ML Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardeen-785&label=Profile%20views&color=0e75b6&style=flat" alt="fardeen-785" /> </p>
 
